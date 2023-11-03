@@ -1,0 +1,74 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 0,
+        "IconURL": "https://i.imgur.com/3RUVB8b.png",
+        "DisableIconText": true,
+        "OpenOnStart": false,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 2
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "Thanks for installing WBUI2!",
+          "text1": "text1",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Settings",
+          "title1": "INI settings:",
+          "text1": "text1",
+          "title2": "JSON settings:",
+          "text2": "text2",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/hopeland"
+        }
+      },
+      {
+        "link2": {
+          "text": "CurseForge",
+          "url": "https://example.com/link2"
+        }
+      },
+      {
+        "link3": {
+          "text": "JSON-Validator",
+          "url": "https://jsonlint.com"
+        }
+      },
+      {
+        "link4": {
+          "text": "Pastebin",
+          "url": "https://pastebin.com"
+        }
+      },
+      {
+        "link5": {
+          "text": "Imgur",
+          "url": "https://imgur.com"
+        }
+      },
+      {
+        "link6": {
+          "text": "Example JSON",
+          "url": "https://pastebin.com/bT9WVwqK"
+        }
+      }
+    ]
+  }
+}
