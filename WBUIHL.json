@@ -6,29 +6,33 @@
         "HideIconAfter": 0,
         "IconURL": "https://i.imgur.com/3RUVB8b.png",
         "DisableIconText": true,
-        "OpenOnStart": false,
+        "IconPosition": 2,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 2
       },
     "tabs": [
       {
         "tab1": {
-          "layout": 1,
-          "buttontext": "Welcome",
-          "title1": "Thanks for installing WBUI2!",
-          "text1": "text1",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "layout": 2,
+          "buttontext": "Ustawienia/Settings",
+          "title1": "[PL][PVE]HopeLand[TheIsland][ASA]",
+          "text1": "Experience / Doswiadczenie:   x2\nTaming / Oswajanie:        x7\nHarvesting / Zbieranie:      x2\n\nMaxDinoLevel / Max poziom dzikich dino:   240\nMaxTekDinoLevel / Max poziom tek dino:   288\nDifficultyOffset / Poziom trudnosci:         x1\nOverrideOfficialDifficulty / Nadpisany poziom trudnosci:   x8\n\nMating interval / Rozmnazanie:       x0.06 (1h-3h cooldown)\nEgg hatch speed / Wykluwanie jaj:              x7\nBaby mature speed / Dorastanie:                x12\nCuddle interval / Odstep czasowy imprintu:       x0.2\nCrop growth speed / Wzrost upraw:             x5\nSupply drop quality / Jakosc zrzutow/skrzynek:   x1.7\nJakosc przedmiotw z lowienia / Fishing loot quality x2\n\nPlayer per-level stats increased / Zwiekszone statystyki gracza\nMap cross chat / Czat miedzy mapowy\nDecay disabled / Rozklad struktur wyłączony\nOffline protection enabled / Wlaczona ochrona offline",
+          "title2": "Title 2",
+          "text2": "Offline protection enabled          /  Włączona ochrona offline\nStructure collision disabled       /  Wyłączona kolizja struktur\nForceStructureLocking enabled  / Blokada struktur właczona\nDecay disabled                              / Rozkład struktur wyłączony\n\nZalecamy dolaczenie do Discord poniewaz zawiera on najswiezsze informacje dotyczace serwera.\n\nProsze zapoznac sie z regulaminem gry, nieznajomosc nie zwalnia z przestrzegania go.",
+          "imageurl": "https://i.imgur.com/CREpz98.png"
         }
       },
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "Settings",
-          "title1": "INI settings:",
-          "text1": "text1",
-          "title2": "JSON settings:",
-          "text2": "text2",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "buttontext": "Aktywny/Poprzedni Event",
+          "title1": "----- Aktywny -----",
+          "text1": "",
+          "title2": "----- Poprzedni -----",
+          "text2": "",
+          "imageurl": "https://i.imgur.com/CREpz98.png"
         }
       }
     ],
@@ -41,32 +45,26 @@
       },
       {
         "link2": {
-          "text": "CurseForge",
-          "url": "https://example.com/link2"
+          "text": "Vote",
+          "url": "https://ark-servers.net/group/1222/"
         }
       },
       {
         "link3": {
-          "text": "JSON-Validator",
-          "url": "https://jsonlint.com"
+          "text": "Donate",
+          "url": "https://www.paypal.com/paypalme/PVEHopeLand"
         }
       },
       {
         "link4": {
-          "text": "Pastebin",
-          "url": "https://pastebin.com"
+          "text": "Mods",
+          "url": "https://"
         }
       },
       {
         "link5": {
-          "text": "Imgur",
-          "url": "https://imgur.com"
-        }
-      },
-      {
-        "link6": {
-          "text": "Example JSON",
-          "url": "https://pastebin.com/bT9WVwqK"
+          "text": "Regulamin",
+          "url": "https://discord.gg/hopeland"
         }
       }
     ]
