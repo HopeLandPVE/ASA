@@ -1,72 +1,84 @@
 {
-  "WBUI2": {
-    "settings": {
-        "OpenButton": 0,
-        "HideIcon": true,
-        "HideIconAfter": 30,
-        "IconURL": "https://i.imgur.com/3RUVB8b.png",
-        "DisableIconText": true,
-        "IconPosition": 2,
-        "IconTextColor": 0,
-        "OpenOnStart": false,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 2
-      },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 2,
-          "buttontext": "<TextStyle.White>Ustawienia/Settings</>",
-          "title1": "<TextStyle.Green>[PL][PVE] HopeLand [ASA]</>",
-          "text1": "\n  Experience / Doświadczenie:        <TextStyle.White>x3</>\n  Taming   / Oswajanie:                    <TextStyle.White>x5</>\n  Harvesting / Zbieranie:                  <TextStyle.White>x4</>\n\n\n  MaxDino / Max dzikie dino:           <TextStyle.White>240 lvl</>\n\n\n  Mating / Rozmnażanie:                       <TextStyle.White>x0.07 (1:30h - 3:00h)</>\n  Egg hatch speed / Wykluwanie jaj:     <TextStyle.White>x9</>\n  Baby mature speed / Dorastanie:       <TextStyle.White>x9</>\n  Cuddle interval / Odstęp imprintu:      <TextStyle.White>x0.05 (~22min)</>\n  Crop growth speed / Wzrost upraw:   <TextStyle.White>x4</>\n  CaveBuilding / Budowanie w jaskiniach:   <TextStyle.White>wyłączone</>",
-          "title2": "",
-          "text2": "  Offline protection          <TextStyle.White>enabled</>\n  Ochrona offline             <TextStyle.White>włączona</>\n\n  Structure collision        <TextStyle.White>disabled</>\n  Kolizja struktur             <TextStyle.White>wyłączona</>\n\n  ForceStructureLocking <TextStyle.White>enabled</>\n  Blokada struktur           <TextStyle.White>właczona</>\n\n  Structure decay              <TextStyle.White>enabled</>\n  Rozkład struktur            <TextStyle.White>włączony</>\n\n    <TextStyle.White>   Zalecamy dolaczenie do Discord poniewaz</>\n<TextStyle.White>            zawiera on najswiezsze informacje</>\n<TextStyle.White>                       dotyczace serwera.</>\n\n   <TextStyle.White>      Prosze zapoznac sie z regulaminem gry,</>\n<TextStyle.White>   nieznajomosc nie zwalnia z przestrzegania go.</>",
-          "imageurl": "https://i.imgur.com/CREpz98.png"
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "<TextStyle.White>Aktywny/Poprzedni Event</>",
-          "title1": "----- Aktywny -----",
-          "text1": "\n\n<TextStyle.White>                         22-30.03.2024</>\n<TextStyle.White>                              Info DC</>",
-          "title2": "--- Poprzedni ---",
-          "text2": "\n\n<TextStyle.White>                         </>",
-          "imageurl": "https://i.imgur.com/CREpz98.png"
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "<TextStyle.White>Discord</>",
-          "url": "https://discord.gg/qb26PRrsuZ"
-        }
-      },
-      {
-        "link2": {
-          "text": "<TextStyle.White>Vote</>",
-          "url": "https://ark-servers.net/server/354298/"
-        }
-      },
-      {
-        "link3": {
-          "text": "<TextStyle.White>Donate</>",
-          "url": "https://www.paypal.com/paypalme/PVEHopeLand"
-        }
-      },
-      {
-        "link4": {
-          "text": "<TextStyle.White>Mods</>",
-          "url": "https://"
-        }
-      },
-      {
-        "link5": {
-          "text": "<TextStyle.White>Regulamin</>",
-          "url": "https://discord.gg/qb26PRrsuZ"
-        }
-      }
-    ]
-  }
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 30,
+			"iconurl": "https://i.imgur.com/3RUVB8b.png",
+			"disableicontext": true,
+			"iconposition": 2,
+			"icontextcolor": 0,
+			"openonstart": false,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 2
+		},
+		"tabs": [
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.White>Ustawienia/Settings</>",
+				"imageurl": "https://i.imgur.com/CREpz98.png",
+				"content": [
+					{
+						"title": "<TextStyle.Green>[PL][PVE] HopeLand [ASA]</>",
+						"text": "\n  Experience / Doświadczenie:        <TextStyle.White>x3</>\n  Taming   / Oswajanie:                    <TextStyle.White>x5</>\n  Harvesting / Zbieranie:                  <TextStyle.White>x4</>\n\n\n  MaxDino / Max dzikie dino:           <TextStyle.White>240 lvl</>\n\n\n  Mating / Rozmnażanie:                       <TextStyle.White>x0.07 (1:30h - 3:00h)</>\n  Egg hatch speed / Wykluwanie jaj:     <TextStyle.White>x9</>\n  Baby mature speed / Dorastanie:       <TextStyle.White>x9</>\n  Cuddle interval / Odstęp imprintu:      <TextStyle.White>x0.05 (~22min)</>\n  Crop growth speed / Wzrost upraw:   <TextStyle.White>x4</>\n  CaveBuilding / Budowanie w jaskiniach:   <TextStyle.White>wyłączone</>"
+					},
+					{
+						"title": "",
+						"text": "  Offline protection          <TextStyle.White>enabled</>\n  Ochrona offline             <TextStyle.White>włączona</>\n\n  Structure collision        <TextStyle.White>disabled</>\n  Kolizja struktur             <TextStyle.White>wyłączona</>\n\n  ForceStructureLocking <TextStyle.White>enabled</>\n  Blokada struktur           <TextStyle.White>właczona</>\n\n  Structure decay              <TextStyle.White>enabled</>\n  Rozkład struktur            <TextStyle.White>włączony</>\n\n    <TextStyle.White>   Zalecamy dolaczenie do Discord poniewaz</>\n<TextStyle.White>            zawiera on najswiezsze informacje</>\n<TextStyle.White>                       dotyczace serwera.</>\n\n   <TextStyle.White>      Prosze zapoznac sie z regulaminem gry,</>\n<TextStyle.White>   nieznajomosc nie zwalnia z przestrzegania go.</>"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.White>Aktywny/Poprzedni Event</>",
+				"imageurl": "https://i.imgur.com/CREpz98.png",
+				"content": [
+					{
+						"title": "----- Aktywny -----",
+						"text": "\r\n\r\n<TextStyle.White>                         22-30.03.2024</>\r\n<TextStyle.White>                              Info DC</>"
+					},
+					{
+						"title": "--- Poprzedni ---",
+						"text": "\n\n<TextStyle.White>                         </>"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.White>Auto decay</>",
+				"imageurl": "https://i.imgur.com/CREpz98.png",
+				"content": [
+					{
+						"title": "Auto decay / automatyczny rozpad",
+						"text": "\r\n> Od wtorku (05.11.2023) został włączony automatyczny rozpad bazy/struktur <\r\n\r\nPowodem tej decyzji jest dużo pozostawionych śmieci na mapach + sporo nieaktywnych baz\r\nNie usuwamy ręcznie od razu ponieważ może ktoś wróci do gry do tego czasu zanim zostaną automatycznie usunięte.\r\nAktywni gracze nie mają się czego obawiać biorąc pod uwagę listę poniżej\r\n\r\n Struktury:\r\n- Słoma:        4 dni\r\n- Drewno:     8 dni\r\n- Glina:          12 dni\r\n- Kamień:     12 dni\r\n- Szklarnia:  16 dni\r\n- Metal:        16 dni\r\n- Tek:             20 dni\r\n\r\n\r\nKilka uwag:\r\n➡ Jeśli komuś rozpadnie się np. kamienna baza, a pozostaną dedyki w powietrzu \r\n      to takie coś będzie też usuwane mimo że dedyk ma więcej dni do rozkładu.\r\n➡ Regulamin nie ulega zmianie gdyż pozostawione przez aktywnych graczy \r\n      oswajarki, struktury luzem itd. nadal będą zgłaszane, usuwane.\r\n➡ Automatyczny rozpad nie zostanie na stałe, jednakże trochę z nami pobędzie.\r\n\r\n"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "<TextStyle.White>Discord</>",
+				"url": "https://discord.gg/qb26PRrsuZ"
+			},
+			{
+				"text": "<TextStyle.White>Vote</>",
+				"url": "https://ark-servers.net/server/354298/"
+			},
+			{
+				"text": "<TextStyle.White>Donate</>",
+				"url": "https://www.paypal.com/paypalme/PVEHopeLand"
+			},
+			{
+				"text": "<TextStyle.White>Mods</>",
+				"url": "https://"
+			},
+			{
+				"text": "<TextStyle.White>Regulamin</>",
+				"url": "https://discord.gg/qb26PRrsuZ"
+			}
+		],
+		"version": 2
+	}
 }
