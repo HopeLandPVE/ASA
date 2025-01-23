@@ -63,7 +63,7 @@
 				"content": [
 					{
 						"title": "Structure limit / Limit struktur",
-						"text": "\r\n> Uwaga! Nowy system limitu struktur! <\r\n\r\n\r\nLimit struktur jest na caly serwer. \r\nStruktury zliczane sa w jeden limit ze wszystkich map.\r\n\r\n\r\nKomenda do sprawdzenia pozostałego limitu: /limits\r\n\r\n\r\n➡ Regulamin nie ulega zmianie. \r\n     Nadal obowiazuje jedna główna, a na reszcie map wypadówki itd.\r\n"
+						"text": "\r\n> Uwaga! Nowy system limitu struktur! <\r\n\r\n\r\nLimit struktur wynosi 6500, wiecej info o wyszczegolnionych strukturach po wpisaniu komendy.\r\n\r\nKomenda do sprawdzenia pozostałego limitu: /limits\r\n\r\n\r\n➡ Regulamin nie ulega zmianie. \r\n     Nadal obowiazuje jedna główna, a na reszcie map wypadówki itd.\r\n"
 					}
 				]
 			}
