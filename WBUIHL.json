@@ -47,12 +47,23 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "<TextStyle.White>Auto decay</>",
+				"buttontext": "<TextStyle.White>NEW Auto decay</>",
 				"imageurl": "https://i.imgur.com/CREpz98.png",
 				"content": [
 					{
 						"title": "Auto decay / automatyczny rozpad",
-						"text": "\r\n> Od wtorku (05.11.2023) został włączony automatyczny rozpad bazy/struktur <\r\n\r\nPowodem tej decyzji jest dużo pozostawionych śmieci na mapach + sporo nieaktywnych baz\r\nNie usuwamy ręcznie od razu ponieważ może ktoś wróci do gry do tego czasu zanim zostaną automatycznie usunięte.\r\nAktywni gracze nie mają się czego obawiać biorąc pod uwagę listę poniżej\r\n\r\n Struktury:\r\n- Słoma:        4 dni\r\n- Drewno:     8 dni\r\n- Glina:          12 dni\r\n- Kamień:     12 dni\r\n- Szklarnia:  16 dni\r\n- Metal:        16 dni\r\n- Tek:             20 dni\r\n\r\n\r\nKilka uwag:\r\n➡ Jeśli komuś rozpadnie się np. kamienna baza, a pozostaną dedyki w powietrzu \r\n      to takie coś będzie też usuwane mimo że dedyk ma więcej dni do rozkładu.\r\n➡ Regulamin nie ulega zmianie gdyż pozostawione przez aktywnych graczy \r\n      oswajarki, struktury luzem itd. nadal będą zgłaszane, usuwane.\r\n➡ Automatyczny rozpad nie zostanie na stałe, jednakże trochę z nami pobędzie.\r\n\r\n"
+						"text": "\r\n> Uwaga! Nowy system rozpadu struktur! <\r\n\r\n\r\nZastąpiony został standardowy system rozpadu struktur.\r\n\r\n\r\nWszystkie struktury maja ten sam czas rozpadu - 14 dni. \r\nPo tym czasie struktury ulegaja calkowitemu zniszczeniu.\r\n\r\n\r\nKomenda do sprawdzenia pozostałego czasu: /decaytime\r\n\r\n\r\n➡ Regulamin nie ulega zmianie gdyż pozostawione przez aktywnych graczy \r\n      oswajarki, struktury luzem itd. nadal będą zgłaszane, usuwane.\r\n\r\n"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.White>NEW Structure limit</>",
+				"imageurl": "https://i.imgur.com/CREpz98.png",
+				"content": [
+					{
+						"title": "Structure limit / Limit struktur",
+						"text": "\r\n> Uwaga! Nowy system limitu struktur! <\r\n\r\n\r\nLimit struktur jest na caly serwer. \r\nStruktury zliczane sa w jeden limit ze wszystkich map.\r\n\r\n\r\nKomenda do sprawdzenia pozostałego limitu: /limits\r\n\r\n\r\n➡ Regulamin nie ulega zmianie. \r\n     Nadal obowiazuje jedna główna, a na reszcie map wypadówki itd.\r\n"
 					}
 				]
 			}
