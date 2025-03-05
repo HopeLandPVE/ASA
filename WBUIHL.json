@@ -52,7 +52,7 @@
 				"content": [
 					{
 						"title": "Auto decay / automatyczny rozpad",
-						"text": "\r\n> Uwaga! Nowy system rozpadu struktur! <\r\n\r\n\r\nZastąpiony został standardowy system rozpadu struktur.\r\n\r\n\r\nWszystkie struktury maja ten sam czas rozpadu - 14 dni. \r\nPo tym czasie struktury ulegaja calkowitemu zniszczeniu.\r\n\r\n\r\nKomenda do sprawdzenia pozostałego czasu: /decaytime\r\n\r\n\r\n➡ Regulamin nie ulega zmianie gdyż pozostawione przez aktywnych graczy \r\n      oswajarki, struktury luzem itd. nadal będą zgłaszane, usuwane.\r\n\r\n"
+						"text": "\r\n> Uwaga! Nowy system rozpadu struktur! <\r\n\r\n\r\nZastąpiony został standardowy system rozpadu struktur.\r\n\r\n\r\nWszystkie struktury maja ten sam czas rozpadu - 21 dni. \r\nPo tym czasie struktury ulegaja calkowitemu zniszczeniu.\r\n\r\n\r\nKomenda do sprawdzenia pozostałego czasu: /decaytime\r\n\r\n\r\n➡ Regulamin nie ulega zmianie gdyż pozostawione przez aktywnych graczy \r\n      oswajarki, struktury luzem itd. nadal będą zgłaszane, usuwane.\r\n\r\n"
 					}
 				]
 			},
