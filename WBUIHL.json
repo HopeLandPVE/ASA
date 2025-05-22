@@ -37,11 +37,11 @@
 				"content": [
 					{
 						"title": "----- Aktywny -----",
-						"text": "\r\n\r\n<TextStyle.White>                         22-30.03.2024</>\r\n<TextStyle.White>                              Info DC</>"
+						"text": "\r\n\r\n\r\n<TextStyle.White>                              Info DC</>"
 					},
 					{
 						"title": "--- Poprzedni ---",
-						"text": "\n\n<TextStyle.White>                         </>"
+						"text": "\r\n\r\n\r\n<TextStyle.White>                              Info DC</>"
 					}
 				]
 			},
