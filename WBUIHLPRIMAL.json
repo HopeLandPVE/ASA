@@ -21,12 +21,12 @@
 				"imageurl": "https://i.imgur.com/CREpz98.png",
 				"content": [
 					{
-						"title": "<TextStyle.Green>[PL][PVE] HopeLand [ASA]</>",
-						"text": "\n  Experience / Doświadczenie:        <TextStyle.White>x3</>\n  Taming   / Oswajanie:                    <TextStyle.White>x5</>\n  Harvesting / Zbieranie:                  <TextStyle.White>x4</>\n\n\n  MaxDino / Max dzikie dino:           <TextStyle.White>240 lvl</>\n\n\n  Mating / Rozmnażanie:                       <TextStyle.White>x0.07 (1:30h - 3:00h)</>\n  Egg hatch speed / Wykluwanie jaj:     <TextStyle.White>x9</>\n  Baby mature speed / Dorastanie:       <TextStyle.White>x9</>\n  Cuddle interval / Odstęp imprintu:      <TextStyle.White>x0.05 (~22min)</>\n  Crop growth speed / Wzrost upraw:   <TextStyle.White>x4</>\n  CaveBuilding / Budowanie w jaskiniach:   <TextStyle.White>wyłączone</>"
+						"title": "<TextStyle.Green>[PL][PVE] HopeLand [PRIMAL][ASA]</>",
+						"text": "\n  Experience / Doświadczenie:        <TextStyle.White>x2</>\n  Taming   / Oswajanie:                    <TextStyle.White>x2</>\n  Harvesting / Zbieranie:                  <TextStyle.White>x2</>\n\n\n  MaxDino / Max dzikie dino:           <TextStyle.White>150 lvl</>\n\n\n  Mating / Rozmnażanie:                       <TextStyle.White>x0.14 (3:00h - 6:00h)</>\n  Egg hatch speed / Wykluwanie jaj:     <TextStyle.White>x1</>\n  Baby mature speed / Dorastanie:       <TextStyle.White>x1</>\n  Cuddle interval / Odstęp imprintu:      <TextStyle.White>x0.05 (~22min)</>\n  Crop growth speed / Wzrost upraw:   <TextStyle.White>x1</>\n  CaveBuilding / Budowanie w jaskiniach:   <TextStyle.White>wyłączone</>"
 					},
 					{
 						"title": "",
-						"text": "  Offline protection          <TextStyle.White>enabled</>\n  Ochrona offline             <TextStyle.White>włączona</>\n\n  Structure collision        <TextStyle.White>disabled</>\n  Kolizja struktur             <TextStyle.White>wyłączona</>\n\n  ForceStructureLocking <TextStyle.White>enabled</>\n  Blokada struktur           <TextStyle.White>właczona</>\n\n  Structure decay              <TextStyle.White>enabled</>\n  Rozkład struktur            <TextStyle.White>włączony</>\n\n    <TextStyle.White>   Zalecamy dolaczenie do Discord poniewaz</>\n<TextStyle.White>            zawiera on najswiezsze informacje</>\n<TextStyle.White>                       dotyczace serwera.</>\n\n   <TextStyle.White>      Prosze zapoznac sie z regulaminem gry,</>\n<TextStyle.White>   nieznajomosc nie zwalnia z przestrzegania go.</>"
+						"text": "  Offline protection          <TextStyle.White>enabled</>\n  Ochrona offline             <TextStyle.White>włączona</>\n\n  Structure collision        <TextStyle.White>disabled</>\n  Kolizja struktur             <TextStyle.White>wyłączona</>\n\n  ForceStructureLocking <TextStyle.White>enabled</>\n  Blokada struktur           <TextStyle.White>właczona</>\n\n  Structure decay              <TextStyle.White>enabled</>\n  Rozkład struktur            <TextStyle.White>wyłączony</>\n\n    <TextStyle.White>   Zalecamy dolaczenie do Discord poniewaz</>\n<TextStyle.White>            zawiera on najswiezsze informacje</>\n<TextStyle.White>                       dotyczace serwera.</>\n\n   <TextStyle.White>      Prosze zapoznac sie z regulaminem gry,</>\n<TextStyle.White>   nieznajomosc nie zwalnia z przestrzegania go.</>"
 					}
 				]
 			},
@@ -47,22 +47,22 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "<TextStyle.White>NEW Auto decay</>",
+				"buttontext": "<TextStyle.White>Auto decay (OFF)</>",
 				"imageurl": "https://i.imgur.com/CREpz98.png",
 				"content": [
 					{
-						"title": "Auto decay / automatyczny rozpad",
+						"title": "Auto decay / automatyczny rozpad (NA CHWILĘ OBECNĄ WYŁĄCZONY)",
 						"text": "\r\n> Uwaga! Nowy system rozpadu struktur! <\r\n\r\n\r\nZastąpiony został standardowy system rozpadu struktur.\r\n\r\n\r\nWszystkie struktury maja ten sam czas rozpadu - 21 dni. \r\nPo tym czasie struktury ulegaja calkowitemu zniszczeniu.\r\n\r\n\r\nKomenda do sprawdzenia pozostałego czasu: /decaytime\r\n\r\n\r\n➡ Regulamin nie ulega zmianie gdyż pozostawione przez aktywnych graczy \r\n      oswajarki, struktury luzem itd. nadal będą zgłaszane, usuwane.\r\n\r\n"
 					}
 				]
 			},
 			{
 				"layout": 1,
-				"buttontext": "<TextStyle.White>NEW Structure limit</>",
+				"buttontext": "<TextStyle.White>Structure limit (OFF)</>",
 				"imageurl": "https://i.imgur.com/CREpz98.png",
 				"content": [
 					{
-						"title": "Structure limit / Limit struktur",
+						"title": "Structure limit / Limit struktur (NA CHWILĘ OBECNĄ WYŁĄCZONY)",
 						"text": "\r\n> Uwaga! Nowy system limitu struktur! <\r\n\r\n\r\nLimit struktur wynosi 6500. \r\nPo wiecej szczegolow prosze uzyc komendy.\r\n\r\n\r\nKomenda do sprawdzenia pozostałego limitu: /limits\r\n\r\n\r\n➡ Regulamin nie ulega zmianie. \r\n     Nadal obowiazuje jedna główna, a na reszcie map wypadówki itd.\r\n"
 					}
 				]
@@ -78,8 +78,8 @@
 				"url": "https://ark-servers.net/server/354298/"
 			},
 			{
-				"text": "<TextStyle.White>Donate</>",
-				"url": "https://www.paypal.me/HopeLandlPVEl"
+				"text": "<TextStyle.White>Donate (OFF)</>",
+				"url": ""
 			},
 			{
 				"text": "<TextStyle.White>Mods</>",
@@ -93,4 +93,5 @@
 		"version": 2
 	}
 }
+
 
