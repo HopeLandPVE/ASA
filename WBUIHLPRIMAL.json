@@ -1,0 +1,96 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 30,
+			"iconurl": "https://i.imgur.com/3RUVB8b.png",
+			"disableicontext": true,
+			"iconposition": 2,
+			"icontextcolor": 0,
+			"openonstart": false,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 2
+		},
+		"tabs": [
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.White>Ustawienia/Settings</>",
+				"imageurl": "https://i.imgur.com/CREpz98.png",
+				"content": [
+					{
+						"title": "<TextStyle.Green>[PL][PVE] HopeLand [ASA]</>",
+						"text": "\n  Experience / Doświadczenie:        <TextStyle.White>x3</>\n  Taming   / Oswajanie:                    <TextStyle.White>x5</>\n  Harvesting / Zbieranie:                  <TextStyle.White>x4</>\n\n\n  MaxDino / Max dzikie dino:           <TextStyle.White>240 lvl</>\n\n\n  Mating / Rozmnażanie:                       <TextStyle.White>x0.07 (1:30h - 3:00h)</>\n  Egg hatch speed / Wykluwanie jaj:     <TextStyle.White>x9</>\n  Baby mature speed / Dorastanie:       <TextStyle.White>x9</>\n  Cuddle interval / Odstęp imprintu:      <TextStyle.White>x0.05 (~22min)</>\n  Crop growth speed / Wzrost upraw:   <TextStyle.White>x4</>\n  CaveBuilding / Budowanie w jaskiniach:   <TextStyle.White>wyłączone</>"
+					},
+					{
+						"title": "",
+						"text": "  Offline protection          <TextStyle.White>enabled</>\n  Ochrona offline             <TextStyle.White>włączona</>\n\n  Structure collision        <TextStyle.White>disabled</>\n  Kolizja struktur             <TextStyle.White>wyłączona</>\n\n  ForceStructureLocking <TextStyle.White>enabled</>\n  Blokada struktur           <TextStyle.White>właczona</>\n\n  Structure decay              <TextStyle.White>enabled</>\n  Rozkład struktur            <TextStyle.White>włączony</>\n\n    <TextStyle.White>   Zalecamy dolaczenie do Discord poniewaz</>\n<TextStyle.White>            zawiera on najswiezsze informacje</>\n<TextStyle.White>                       dotyczace serwera.</>\n\n   <TextStyle.White>      Prosze zapoznac sie z regulaminem gry,</>\n<TextStyle.White>   nieznajomosc nie zwalnia z przestrzegania go.</>"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.White>Aktywny/Poprzedni Event</>",
+				"imageurl": "https://i.imgur.com/CREpz98.png",
+				"content": [
+					{
+						"title": "----- Aktywny -----",
+						"text": "\r\n\r\n\r\n<TextStyle.White>                              Info DC</>"
+					},
+					{
+						"title": "--- Poprzedni ---",
+						"text": "\r\n\r\n\r\n<TextStyle.White>                              Info DC</>"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.White>NEW Auto decay</>",
+				"imageurl": "https://i.imgur.com/CREpz98.png",
+				"content": [
+					{
+						"title": "Auto decay / automatyczny rozpad",
+						"text": "\r\n> Uwaga! Nowy system rozpadu struktur! <\r\n\r\n\r\nZastąpiony został standardowy system rozpadu struktur.\r\n\r\n\r\nWszystkie struktury maja ten sam czas rozpadu - 21 dni. \r\nPo tym czasie struktury ulegaja calkowitemu zniszczeniu.\r\n\r\n\r\nKomenda do sprawdzenia pozostałego czasu: /decaytime\r\n\r\n\r\n➡ Regulamin nie ulega zmianie gdyż pozostawione przez aktywnych graczy \r\n      oswajarki, struktury luzem itd. nadal będą zgłaszane, usuwane.\r\n\r\n"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.White>NEW Structure limit</>",
+				"imageurl": "https://i.imgur.com/CREpz98.png",
+				"content": [
+					{
+						"title": "Structure limit / Limit struktur",
+						"text": "\r\n> Uwaga! Nowy system limitu struktur! <\r\n\r\n\r\nLimit struktur wynosi 6500. \r\nPo wiecej szczegolow prosze uzyc komendy.\r\n\r\n\r\nKomenda do sprawdzenia pozostałego limitu: /limits\r\n\r\n\r\n➡ Regulamin nie ulega zmianie. \r\n     Nadal obowiazuje jedna główna, a na reszcie map wypadówki itd.\r\n"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "<TextStyle.White>Discord</>",
+				"url": "https://discord.gg/qb26PRrsuZ"
+			},
+			{
+				"text": "<TextStyle.White>Vote</>",
+				"url": "https://ark-servers.net/server/354298/"
+			},
+			{
+				"text": "<TextStyle.White>Donate</>",
+				"url": "https://www.paypal.me/HopeLandlPVEl"
+			},
+			{
+				"text": "<TextStyle.White>Mods</>",
+				"url": "https://"
+			},
+			{
+				"text": "<TextStyle.White>Regulamin</>",
+				"url": "https://discord.gg/qb26PRrsuZ"
+			}
+		],
+		"version": 2
+	}
+}
+
