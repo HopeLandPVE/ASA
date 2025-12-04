@@ -22,7 +22,7 @@
 				"content": [
 					{
 						"title": "<TextStyle.Green>[PL][PVE] HopeLand [PRIMAL][ASA]</>",
-						"text": "\n  Experience / Doświadczenie:        <TextStyle.White>x2</>\n  Taming   / Oswajanie:                    <TextStyle.White>x2</>\n  Harvesting / Zbieranie:                  <TextStyle.White>x2</>\n\n\n  MaxDino / Max dzikie dino:           <TextStyle.White>150 lvl</>\n\n\n  Mating / Rozmnażanie:                       <TextStyle.White>x0.14 (3:00h - 6:00h)</>\n  Egg hatch speed / Wykluwanie jaj:     <TextStyle.White>x1</>\n  Baby mature speed / Dorastanie:       <TextStyle.White>x1</>\n  Cuddle interval / Odstęp imprintu:      <TextStyle.White>x0.05 (~22min)</>\n  Crop growth speed / Wzrost upraw:   <TextStyle.White>x1</>\n  CaveBuilding / Budowanie w jaskiniach:   <TextStyle.White>wyłączone</>"
+						"text": "\n  Experience / Doświadczenie:        <TextStyle.White>x2</>\n  Taming   / Oswajanie:                    <TextStyle.White>x2</>\n  Harvesting / Zbieranie:                  <TextStyle.White>x2</>\n\n\n  MaxDino / Max dzikie dino:           <TextStyle.White>150 lvl</>\n\n\n  Mating / Rozmnażanie:                       <TextStyle.White>x0.15 (~3:00h - ~6:00h)</>\n  Egg hatch speed / Wykluwanie jaj:     <TextStyle.White>x15</>\n  Baby mature speed / Dorastanie:       <TextStyle.White>x15</>\n  Cuddle interval / Odstęp imprintu:      <TextStyle.White>x0.05 (~22min)</>\n  Crop growth speed / Wzrost upraw:   <TextStyle.White>x2</>\n  CaveBuilding / Budowanie w jaskiniach:   <TextStyle.White>wyłączone</>"
 					},
 					{
 						"title": "",
@@ -93,5 +93,6 @@
 		"version": 2
 	}
 }
+
 
 
